@@ -26,7 +26,9 @@ The dataset was obtained from **TUMI's GTFS Hub**, which provides open transit d
 Below is a sample visualisation of Kigali's transit routes and stops, processed and styled in QGIS:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d058859-ce6d-4b82-a3fe-56b21cc43383" width="700"/>
+  <img src="https://github.com/user-attachments/assets/5d058859-ce6d-4b82-a3fe-56b21cc43383" width="900"/>
+  <img alt="Screenshot 2025-05-18 at 20 51 34" src="https://github.com/user-attachments/assets/9616a742-cee1-433b-912a-a5d5bce2179a" width="900" />
+
 </p>
 
 ---
